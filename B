@@ -1,2 +1,6 @@
 print("Hola")
+<<<<<<< HEAD
 print("Concha")
+=======
+print("dos")
+>>>>>>> 1f5860b5e295bcb730408f56f01b603e8ae7ef38
